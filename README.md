@@ -5,8 +5,7 @@ Gh-pages - copy of master.
 
 Folder build/ contain files processed by Gulp.
 
-## Hello, to view the site simply click the link below-
-http://TatianaSH.github.io/frontend-nanodegree-mobile-portfolio
+## Hello.
 
 To view the optimized (minified, image optimezed, uglified javascript) version of site click the link below-
 http://TatianaSH.github.io/frontend-nanodegree-mobile-portfolio/build
