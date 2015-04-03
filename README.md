@@ -1,11 +1,15 @@
 ## Website Performance Optimization portfolio project
 
 Master - contains human readable html, css, js files.
-Minified - contains minified html, css, js files.
-Gh-pages - copy of minified.
+Gh-pages - copy of master.
+
+Folder build/ contain files processed by Gulp.
 
 ## Hello, to view the site simply click the link below-
 http://TatianaSH.github.io/frontend-nanodegree-mobile-portfolio
+
+To view the optimized (minified, image optimezed, uglified javascript) version of site click the link below-
+http://TatianaSH.github.io/frontend-nanodegree-mobile-portfolio/build
 
 ## Measuring the PageSpeed Insights Score-
 https://developers.google.com/speed/pagespeed/insights/
